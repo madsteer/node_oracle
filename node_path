@@ -1,0 +1,2 @@
+export PATH="/usr/local/node-v10.14.0-linux-x64/bin:${PATH}"
+
